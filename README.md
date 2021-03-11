@@ -21,7 +21,7 @@ html태그 밑에 빈 라인을 추가해야 마크다운이 적용된다.
 - 2
 - 3
 
-```python
+python
 print("hello world!")
 
 </p>
